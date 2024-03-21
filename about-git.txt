@@ -1,0 +1,3 @@
+
+
+>>>when we init git in teminal, inside the folder of our project- a ".git" file gets created. It's functinality is to trak  all the files present in the working folder.
